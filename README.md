@@ -1,4 +1,6 @@
-# Hi! I'm Valentina, nice to meet you!
+# Hi! 
+
+I'm Valentina, nice to meet you!
 
 Here’s some information about me that might be interesting:
 - I graduated in Computer Science in October 2025.  
